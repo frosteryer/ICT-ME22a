@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Meine erste HTML-Seite</title>
+</head>
+<body>
+	<h1>Willkommen auf meiner Seite!</h1>
+	<p>Ich bin ein Absatz.</p>
+	<ul>
+		<li>Erster Listeneintrag</li>
+		<li>Zweiter Listeneintrag</li>
+		<li>Dritter Listeneintrag</li>
+	</ul>
+</body>
+</html>
